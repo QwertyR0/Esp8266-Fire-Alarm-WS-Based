@@ -4,4 +4,5 @@ This is a simple fire alarm system based on esp8266 and WebSocket. The system is
 
 ### [Click here for the library for WebSocket server.](https://github.com/Links2004/arduinoWebSockets)
 
+### protoype 1:
 ![preview](https://github.com/QwertyR0/Esp8266-Fire-Alarm-WS-Based/blob/main/preview.jpg?raw=true)
