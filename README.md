@@ -9,3 +9,8 @@ My main aim was to make the smallest functional fire alarm - flame detecter poss
 
 ### protoype 1:
 ![preview](https://github.com/QwertyR0/Esp8266-Fire-Alarm-WS-Based/blob/main/preview.jpg?raw=true)
+
+### protype 2 design(most prob. final product):
+![p2](https://github.com/QwertyR0/Esp8266-Fire-Alarm-WS-Based/blob/main/protoype2.jpg?raw=true)
+length: aprox. 4.2 cm
+width: aprox. 3.1 cm
